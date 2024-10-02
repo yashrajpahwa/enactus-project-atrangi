@@ -6,6 +6,11 @@ export default {
     colors: {
       yellow: "#FFB800",
       white: "#FFFFFF",
+      black: "#121212",
+      gray: "#71717A",
+    },
+    screens: {
+      lg: "1140px",
     },
   },
   plugins: [],
