@@ -1,5 +1,5 @@
 import { MdArrowOutward } from "react-icons/md";
-import heroImage from "../assets/image1.svg"
+import heroImage from "../assets/image1.svg";
 import image2 from "../assets/image2.svg";
 import prod1 from "../assets/prod1.svg";
 import prod2 from "../assets/prod2.svg";
@@ -96,7 +96,9 @@ const Content = () => {
             <FaFacebook size={18} />
             <FaLinkedin size={18} />
             <FaTwitter size={18} />
-    <button className="text-yellow font-semibold absolute right-0">Copy link</button>
+            <button className="text-yellow font-semibold absolute right-0">
+              Copy link
+            </button>
           </div>
         </div>
       </div>

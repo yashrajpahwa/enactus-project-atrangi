@@ -1,4 +1,5 @@
 import Content from "./components/content";
+import Footer from "./components/footer";
 import Nav from "./components/nav";
 import TopNote from "./components/topNote";
 
@@ -11,6 +12,7 @@ const App = () => {
       <div className="mx-[80px]">
         <Content/>
       </div>
+      <Footer/>
     </>
   );
 }
