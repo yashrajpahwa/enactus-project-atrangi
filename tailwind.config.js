@@ -5,6 +5,7 @@ export default {
     extend: {},
     colors: {
       yellow: "#FFB800",
+      white: "#FFFFFF",
     },
   },
   plugins: [],
